@@ -1,0 +1,61 @@
+body {
+
+margin: 0;
+
+border: 0;
+
+}
+
+#hero {
+
+margin: 0 auto;
+
+}
+
+#hero img {
+
+width: 100%;
+
+}
+
+footer {
+
+background-color: rgb(99, 99, 99);
+
+height: 50%;
+
+display: block;
+
+text-align: center;
+
+margin: -4px 0;
+
+}
+
+footer div {
+
+margin: 0%;
+
+display: inline;
+
+padding: 4%;
+
+height: 60px;
+
+}
+
+footer img {
+
+border: 6px solid rgb(52, 52, 52);
+
+display: inline;
+
+width: 130px;
+
+border-radius: 50%;
+
+text-align: center;
+
+margin: 25px; 
+
+}
