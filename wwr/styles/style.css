@@ -308,6 +308,9 @@ form {
     margin-top: 3em;
 }
 
+main p, main li, main div, fieldset{
+    color: white;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
